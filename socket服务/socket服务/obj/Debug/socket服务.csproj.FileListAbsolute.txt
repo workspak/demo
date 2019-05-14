@@ -1,0 +1,10 @@
+G:\DEMO合集\socket服务\socket服务\bin\Debug\socket服务.exe.config
+G:\DEMO合集\socket服务\socket服务\bin\Debug\socket服务.exe
+G:\DEMO合集\socket服务\socket服务\bin\Debug\socket服务.pdb
+G:\DEMO合集\socket服务\socket服务\bin\Debug\NetworkSocket.dll
+G:\DEMO合集\socket服务\socket服务\bin\Debug\SocketService.dll
+G:\DEMO合集\socket服务\socket服务\bin\Debug\SocketService.pdb
+G:\DEMO合集\socket服务\socket服务\bin\Debug\NetworkSocket.xml
+G:\DEMO合集\socket服务\socket服务\obj\Debug\socket服务.csprojResolveAssemblyReference.cache
+G:\DEMO合集\socket服务\socket服务\obj\Debug\socket服务.exe
+G:\DEMO合集\socket服务\socket服务\obj\Debug\socket服务.pdb

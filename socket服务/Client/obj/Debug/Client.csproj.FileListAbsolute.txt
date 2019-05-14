@@ -1,0 +1,1 @@
+G:\DEMO合集\socket服务\Client\bin\Debug\Client.exe.config

@@ -1,0 +1,5 @@
+G:\DEMO合集\socket服务\SocketService\bin\Debug\SocketService.dll
+G:\DEMO合集\socket服务\SocketService\bin\Debug\SocketService.pdb
+G:\DEMO合集\socket服务\SocketService\obj\Debug\SocketService.csprojResolveAssemblyReference.cache
+G:\DEMO合集\socket服务\SocketService\obj\Debug\SocketService.dll
+G:\DEMO合集\socket服务\SocketService\obj\Debug\SocketService.pdb
